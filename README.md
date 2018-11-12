@@ -1,5 +1,9 @@
 # TSPLIB
 
+## 开发平台和语言
+android stdio 的java
+可在android设备上运行
+
 ## 整体界面
 ![](readmeSrc/1.png)
 
