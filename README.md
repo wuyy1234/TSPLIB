@@ -5,8 +5,10 @@ android stdio 的java
 可在android设备上运行
 
 ## 整体界面
+- 最优结果：2570步
+- local search:3600步
 ![](readmeSrc/1.png)
-
+- simulated Annealing：平均结果为2800步
 ![](readmeSrc/1.gif)
 
 ## 操作细则
